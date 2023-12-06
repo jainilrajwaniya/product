@@ -2,7 +2,7 @@
 
 ## About Product
 
-Product is a api application, with all the required apis one by one:-
+Product is a api application. nelow are the response of all the given requirements one by one:-
 
 ## 1. Scheduled Data Fetching: Set up Laravel task scheduler for data fetching every 2 hours.
 
