@@ -1,8 +1,17 @@
 <p align="center"><a href="#" target="_blank">Hola!</a></p>
 
-## About Product
 
-Product is a api application. nelow are the response of all the given requirements one by one:-
+## About Product Setup
+
+- Take clone from git hub repo
+- In root folder, execute "composer install"
+- Create Database and updat the name in .evn file
+- Run "php artisan migrate" to make DB tables structure
+- Execute "php artisan upload-products" manually so that you can populate the DB tables
+- You can now start calling apis, given in "routes/api.php".
+
+
+Below are the response of all the given requirements one by one:-
 
 ## 1. Scheduled Data Fetching: Set up Laravel task scheduler for data fetching every 2 hours.
 
