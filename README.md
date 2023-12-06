@@ -5,7 +5,7 @@
 
 - Take clone from git hub repo
 - In root folder, execute "composer install"
-- Create Database and updat the name in .evn file
+- Create Database and update the variables in .evn file
 - Run "php artisan migrate" to make DB tables structure
 - Execute "php artisan upload-products" manually so that you can populate the DB tables
 - You can now start calling apis, given in "routes/api.php".
